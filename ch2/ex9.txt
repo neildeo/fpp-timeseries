@@ -1,0 +1,8 @@
+Monthly Air Passengers: D, standard trend-driven ACF plot
+
+Daily Temperature of Cow: B, driven by trend more than seasonality so all 
+autocorrelations are positive
+
+Monthly Accidental Deaths: A, highly seasonal with very regular seasonality
+
+Annual Mink Trappings: C, highly seasonal but a less regular pattern
