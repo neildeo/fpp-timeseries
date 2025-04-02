@@ -1,0 +1,6 @@
+A Box-Cox transform cannot be used for the Canadian gas data in canadian_gas
+because the period of highest fluctuations (1977 - 1989) does not coincide
+with the period of highest prices (which increase linearly over time).
+
+In other words, a monotonic transform will not stabilise the variation in the
+data.

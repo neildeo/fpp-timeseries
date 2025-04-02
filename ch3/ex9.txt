@@ -1,0 +1,12 @@
+The STL decomposition of the employment data shows a steady increasing trend 
+of roughly linear shape. The seasonality is rather complex, but is a rather 
+minor effect compared to the trend and the remainder. The magnitude of the 
+seasonal effect is very gradually increasing over time. The remainder shows a 
+clear dip in 1991-92, suggesting an event that the STL model is failing to 
+capture.
+
+The season plot shows no clear pattern in monthly trends, but it does highlight
+that the seasonal peaks come in March, September and December (quarter ends?).
+
+The 1991-92 recession is only visible in the noise, which suggests that this 
+model is not sufficiently expressive to capture such events.
